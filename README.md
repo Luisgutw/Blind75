@@ -2,6 +2,22 @@
 The Blind 75 Coding Questions, a collection of helpful coding challenges to improve my coding skills.<br>
 Inspired by [this blog post](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
+## Inhaltsverzeichnis <br>
+[1. Two Sum](#1-two-sum) <br>
+[2. Longest Substring Without Repeating Characters](#2-longest-substring-without-repeating-characters) <br>
+[6. Remove Nth Node From End of List](#6-remove-nth-node-from-end-of-list)<br>
+[7. Valid Parentheses](#7-valid-parentheses)<br>
+[8. Merge Two Sorted Lists](#8-merge-two-sorted-lists)<br>
+[26. Same Tree](#26-same-tree)<br>
+[28. Maximum Depth of Binary Tree](#28-maximum-depth-of-binary-tree)<br>
+[30. Best Time to Buy and Sell Stock](#30-best-time-to-buy-and-sell-stock)<br>
+[40. Reverse Bits](#40-reverse-bits)<br>
+[50. Contains Duplicate](#50-contains-duplicate)<br>
+[51. Invert Binary Tree](#51-invert-binary-tree)<br>
+[55. Product of Array Except Self](#55-product-of-array-except-self)<br>
+[60. Missing Number](#60-missing-number)<br>
+
+## Problemstellungen<br>
 ### [1. Two Sum](https://github.com/Luisgutw/Blind75/blob/main/Code/TwoSum.java)
 >Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
