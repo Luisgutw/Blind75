@@ -12,6 +12,7 @@ Inspired by [this blog post](https://www.teamblind.com/post/New-Year-Gift---Cura
 [28. Maximum Depth of Binary Tree](#28-maximum-depth-of-binary-tree)<br>
 [30. Best Time to Buy and Sell Stock](#30-best-time-to-buy-and-sell-stock)<br>
 [40. Reverse Bits](#40-reverse-bits)<br>
+[44. Reverse Linked List](#40-reverse-linked-list)<br>
 [50. Contains Duplicate](#50-contains-duplicate)<br>
 [51. Invert Binary Tree](#51-invert-binary-tree)<br>
 [55. Product of Array Except Self](#55-product-of-array-except-self)<br>
@@ -56,6 +57,9 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 ### [40. Reverse Bits](https://github.com/Luisgutw/Blind75/blob/main/Code/ReverseBits.java)
 >Reverse bits of a given 32 bits unsigned integer.
+
+### [40. Reverse Linked List](https://github.com/Luisgutw/Blind75/blob/main/Code/ReverseLinkedList.java)
+>Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 ### [50. Contains Duplicate](https://github.com/Luisgutw/Blind75/blob/main/Code/ContainsDuplicate.java)
 >Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
