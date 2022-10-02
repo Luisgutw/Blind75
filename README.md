@@ -58,7 +58,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 ### [40. Reverse Bits](https://github.com/Luisgutw/Blind75/blob/main/Code/ReverseBits.java)
 >Reverse bits of a given 32 bits unsigned integer.
 
-### [40. Reverse Linked List](https://github.com/Luisgutw/Blind75/blob/main/Code/ReverseLinkedList.java)
+### [44. Reverse Linked List](https://github.com/Luisgutw/Blind75/blob/main/Code/ReverseLinkedList.java)
 >Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 ### [50. Contains Duplicate](https://github.com/Luisgutw/Blind75/blob/main/Code/ContainsDuplicate.java)
